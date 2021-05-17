@@ -4,7 +4,7 @@
 16/05/2021
 
 ### Project Title
-Exploring US Bikeshare Data
+Exploring US Bikeshare Data Using Python
 
 ### Description
 The Project uses Python to explore and understand U.S. bike share data by calculating statistics and using an interactive environment where users can choose the data and filter the data for a dataset they want to analyze.
